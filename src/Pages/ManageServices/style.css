@@ -1,0 +1,11 @@
+.service-manage{
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+    padding: 5px;
+}
+.service-manage button{
+    background-color: red;
+    margin: 3px;
+}
